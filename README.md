@@ -1,5 +1,5 @@
 # Huffman Coding
-This is a huffman code, the data structure II final project, using Java and Tree. It is a text file compactor and de-compactor.
+This is a huffman code, the data structure II final project, using Java and Tree and Binary Table. This has the goal to compact and de-compact files very efficiently
 
 ## Some of the logic behind
 ``` Java
@@ -20,8 +20,8 @@ Compact
 
 Unzip
 {
-    - Reads the compacted file stored in the object;
-    - Records it into a file the bitset translation;
+    1 - Reads the compacted file stored in the object;
+    2 - Records it into a file the bitset translation;
 }
 
 ```
