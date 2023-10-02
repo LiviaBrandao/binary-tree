@@ -1,4 +1,4 @@
-# binary-tree
+# Huffman Coding
 This is a huffman code, the data structure II final project, using Java and Tree. It is a text file compactor and de-compactor.
 
 ## Some of the logic behind
